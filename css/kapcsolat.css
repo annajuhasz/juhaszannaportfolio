@@ -1,0 +1,78 @@
+
+body{
+	font-size: 20px;
+}
+header{
+	text-align: center;
+	background: url(képek/háttér1.jpg);
+	color: white;
+	height: 150px;
+	background-color:tomato ;
+}
+
+header h1{
+	font-family: 'Dancing Script';
+}
+
+
+
+.content a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	
+}
+.content a:hover{
+	color: tomato;
+	
+}
+.content ul{
+	
+	padding: 0;
+	text-align: center;
+	
+}
+.content li{
+	
+	display: inline-block;
+	padding: 0px 100px;
+	justify-content: space-around;
+
+}
+
+nav{
+	background-color: lavender;
+}
+
+
+
+main{
+	text-align: center;
+	padding: 50px;
+	border: 2px solid lavender;
+	border-radius: 10px;
+	background-color: lavender;
+	margin: 50px;
+}
+
+
+main h3{
+	text-decoration: underline;
+}
+
+img{
+	width: 2rem;
+}
+
+.kapcsolat a{
+	text-decoration: underline 1px black;
+	color: tomato;
+}
+
+.kapcsolat a:hover{
+	color: black;
+}
+
+.email{
+	text-decoration: underline 1px;
+}
